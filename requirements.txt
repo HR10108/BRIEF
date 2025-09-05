@@ -1,0 +1,6 @@
+opencompass[lmdeploy]
+cords --no-deps
+apricot-select
+swanlab
+trak
+
